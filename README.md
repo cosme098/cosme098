@@ -11,7 +11,7 @@
   <img align="center" alt="Cosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Node-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
   
   ##
